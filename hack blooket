@@ -206,8 +206,8 @@
                             fontWeight: "700",
                             userSelect: "text"
                         },
-                        innerHTML: "GitHub - randomstuff69",
-                        onclick: () => window.open("https://github.com/randomstuff69/blooketcheatsplus", "_blank").focus()
+                        innerHTML: "GitHub - KimKhoihaver",
+                        onclick: () => window.open("https://github.com/KimKhoihaver/KimKhoihaver/tree/main", "_blank").focus()
                     }), $ = l("div", {
                         id: "controlButtons",
                         style: {
