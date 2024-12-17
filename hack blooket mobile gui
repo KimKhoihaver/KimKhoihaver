@@ -6,7 +6,7 @@
             console.log("You tried to get caught cheating!")
         }
     } else console.log("already run");
-    if (console.log("%c Blooket Cheats Plus %c\n	By OMGSHITU on GitHub", "color: #0bc2cf; font-size: 3rem", "color: #8000ff; font-size: 1rem"), console.log("%c	Mobilegui.js", "color: #0bc2cf; font-size: 1rem"), console.log("%c	Star the github repo!%c  https://github.com/DannyDan0167/Blooket-Cheats-Plus", "color: #ffd000; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
+    if (console.log("%c Blooket Cheats Plus %c\n	By OMGSHITU on GitHub", "color: #0bc2cf; font-size: 3rem", "color: #8000ff; font-size: 1rem"), console.log("%c	Mobilegui.js", "color: #0bc2cf; font-size: 1rem"), console.log("%c	Star the github repo!%c  https://github.com/KimKhoihaver/Blooket-Cheats-Plus", "color: #ffd000; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
         for (var t = document.createElement("iframe"), o = (document.body.appendChild(t), window.clearId = window.setInterval(() => {}, 0)); o--;) t.contentWindow.clearInterval.call(window, o);
         t.remove()
     } {
@@ -83,7 +83,7 @@
                     name: "Auto Answer (Toggle)",
                     description: "Toggles auto answer on",
                     type: "toggle",
-                    enabled: (o.innerHTML = '<span><a target="blank" href="https://discord.gg/8A6J234n7v">Discord</a><br/><a target="blank" href="https://github.com/DannyDan0167/Blooket-Cheats-Plus/">GitHub - DannyDan0167</a></span>', !1),
+                    enabled: (o.innerHTML = '<span><a target="blank" href="https://discord.gg/8A6J234n7v">Discord</a><br/><a target="blank" href="https://github.com/DannyDan0167/Blooket-Cheats-Plus/">GitHub - KimKhoihaver</a></span>', !1),
                     data: null,
                     run: function() {
                         this.enabled ? (this.enabled = !1, clearInterval(this.data), this.data = null) : (this.enabled = !0, this.data = setInterval(() => {
